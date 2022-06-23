@@ -13,10 +13,11 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background: #fff !important;
 }
 
 span {
-    font-size: 45px;
+    font-size: 45px !important; 
 }
 
 span #countClicks {
